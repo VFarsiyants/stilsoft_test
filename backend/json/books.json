@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "name": "Властелин колец",
+        "published_year": 1955,
+        "author": 1
+    },
+    {
+        "id": 2,
+        "name": "Хоббит, или туда и обратно",
+        "published_year": 1937,
+        "author": 1
+    },
+    {
+        "id": 3,
+        "name": "Сестра Керри",
+        "published_year": 1900,
+        "author": 2
+    },
+    {
+        "id": 4,
+        "name": "Финансист",
+        "published_year": 1912,
+        "author": 2
+    },
+    {
+        "id": 5,
+        "name": "Американская трагедия",
+        "published_year": 1925,
+        "author": 2
+    },
+    {
+        "id": 6,
+        "name": "Последний из могикан",
+        "published_year": 1826,
+        "author": 3
+    },
+    {
+        "id": 7,
+        "name": "Зверобой",
+        "published_year": 1841,
+        "author": 3
+    },
+    {
+        "id": 8,
+        "name": "Три мушкетера",
+        "published_year": 1844,
+        "author": 4
+    },
+    {
+        "id": 9,
+        "name": "Граф Монте-Кристо",
+        "published_year": 1844,
+        "author": 4
+    },
+    {
+        "id": 10,
+        "name": "1984",
+        "published_year": 1949,
+        "author": 5
+    },
+    {
+        "id": 11,
+        "name": "Божественная комедия",
+        "published_year": 1472,
+        "author": 6
+    },
+    {
+        "id": 12,
+        "name": "Судьба человека",
+        "published_year": 1956,
+        "author": 7
+    },
+    {
+        "id": 13,
+        "name": "Смерть чиновника",
+        "published_year": 1883,
+        "author": 8
+    },
+    {
+        "id": 14,
+        "name": "Палата №6",
+        "published_year": 1892,
+        "author": 8
+    },
+    {
+        "id": 15,
+        "name": "Мастер и Маргарита",
+        "published_year": 1966,
+        "author": 9
+    },
+    {
+        "id": 16,
+        "name": "Собачье сердце",
+        "published_year": 1925,
+        "author": 9
+    },
+    {
+        "id": 17,
+        "name": "Мертвые души",
+        "published_year": 1842,
+        "author": 10
+    }
+]
