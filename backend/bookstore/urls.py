@@ -10,4 +10,5 @@ router.register('authors', AuthorModelViewSet)
 urlpatterns = [
     path('', include(router.urls)),
     path('auth/', obtain_auth_token),
+    path('api-auth/', include('rest_framework.urls'))
 ]
