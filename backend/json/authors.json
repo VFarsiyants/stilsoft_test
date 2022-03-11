@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "first_name": "Джон",
+        "last_name": "Толкиен",
+        "birthdate": "1892-01-03"
+    },
+    {
+        "id": 2,
+        "first_name": "Теодор",
+        "last_name": "Драйзер",
+        "birthdate": "1871-08-27"
+    },
+    {
+        "id": 3,
+        "first_name": "Джеймс Фенимор",
+        "last_name": "Купер",
+        "birthdate": "1789-09-15"
+
+    },
+    {
+        "id": 4,
+        "first_name": "Александр",
+        "last_name": "Дюма",
+        "birthdate": "1802-07-24"
+    },
+    {
+        "id": 5,
+        "first_name": "Джордж",
+        "last_name": "Оруэл",
+        "birthdate": "1903-06-25"
+    },
+    {
+        "id": 6,
+        "first_name": "Данте",
+        "last_name": "Алигьери",
+        "birthdate": "1321-09-14"
+    },
+    {
+        "id": 7,
+        "first_name": "Михаил",
+        "last_name": "Шолохов",
+        "birthdate": "1905-05-24"
+    },
+    {
+        "id": 8,
+        "first_name": "Антон",
+        "last_name": "Чехов",
+        "birthdate": "1860-01-29"
+    },
+    {
+        "id": 9,
+        "first_name": "Михаил",
+        "last_name": "Булгаков",
+        "birthdate": "1891-05-15"
+    },
+    {
+        "id": 10,
+        "first_name": "Николай",
+        "last_name": "Гоголь",
+        "birthdate": "1809-04-01"
+    }
+]
