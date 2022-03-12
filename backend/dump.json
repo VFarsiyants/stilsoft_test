@@ -1,0 +1,1573 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2022-03-12T08:36:01.352Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Елена Гутник",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2022-03-12T08:37:52.559Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Елена Гутник",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u0430\\u0442\\u0430 \\u0440\\u043e\\u0436\\u0434\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2022-03-12T08:40:21.120Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "1",
+      "object_repr": "Физика. 9 класс",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2022-03-12T08:41:49.776Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "Александр Перышкин",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2022-03-12T08:42:06.104Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "1",
+      "object_repr": "AuthorBook object (1)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2022-03-12T08:42:55.077Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "2",
+      "object_repr": "AuthorBook object (2)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2022-03-12T08:44:48.410Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "2",
+      "object_repr": "Физика. 8 класс",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2022-03-12T08:45:22.158Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "3",
+      "object_repr": "Физика. 7 класс",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2022-03-12T08:45:37.202Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "3",
+      "object_repr": "AuthorBook object (3)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2022-03-12T08:45:42.597Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "4",
+      "object_repr": "AuthorBook object (4)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2022-03-12T08:46:51.775Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "Генадий Мякишев",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2022-03-12T08:50:22.666Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "4",
+      "object_repr": "Арон Синяков",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2022-03-12T08:52:03.578Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "5",
+      "object_repr": "Андрей Рымкевич",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2022-03-12T08:52:51.480Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "5",
+      "object_repr": "Петр Рымкевич",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0418\\u043c\\u044f\", \"\\u0414\\u0430\\u0442\\u0430 \\u0440\\u043e\\u0436\\u0434\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2022-03-12T08:53:49.494Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "5",
+      "object_repr": "Борис Слободсков",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0418\\u043c\\u044f\", \"\\u0424\\u0430\\u043c\\u0438\\u043b\\u0438\\u044f\", \"\\u0414\\u0430\\u0442\\u0430 \\u0440\\u043e\\u0436\\u0434\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2022-03-12T08:54:44.981Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "4",
+      "object_repr": "Сборник задач по физике. 7-9 классы",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2022-03-12T08:55:10.261Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "4",
+      "object_repr": "Физика. 10 класс. Механика",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041d\\u0430\\u0437\\u0432\\u0430\\u043d\\u0438\\u0435 \\u043a\\u043d\\u0438\\u0433\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+      "action_time": "2022-03-12T08:55:41.200Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "4",
+      "object_repr": "Физика. Молекулярная физика. Термодинамика. 10 класс",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041d\\u0430\\u0437\\u0432\\u0430\\u043d\\u0438\\u0435 \\u043a\\u043d\\u0438\\u0433\\u0438\", \"\\u0413\\u043e\\u0434 \\u0438\\u0437\\u0434\\u0430\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+      "action_time": "2022-03-12T08:56:07.428Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "4",
+      "object_repr": "Физика. Колебания и волны. 11 класс",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041d\\u0430\\u0437\\u0432\\u0430\\u043d\\u0438\\u0435 \\u043a\\u043d\\u0438\\u0433\\u0438\", \"\\u0413\\u043e\\u0434 \\u0438\\u0437\\u0434\\u0430\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+      "action_time": "2022-03-12T08:56:28.726Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "4",
+      "object_repr": "Физика. Оптика. Квантовая физика. 11 класс",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041d\\u0430\\u0437\\u0432\\u0430\\u043d\\u0438\\u0435 \\u043a\\u043d\\u0438\\u0433\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+      "action_time": "2022-03-12T08:56:47.006Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "4",
+      "object_repr": "Физика. 10-11 классы. Электродинамика",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041d\\u0430\\u0437\\u0432\\u0430\\u043d\\u0438\\u0435 \\u043a\\u043d\\u0438\\u0433\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+      "action_time": "2022-03-12T08:58:10.882Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "5",
+      "object_repr": "Борис Слободсков - Физика. 10-11 классы. Электродинамика - 15",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+      "action_time": "2022-03-12T08:58:20.423Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "6",
+      "object_repr": "Арон Синяков - Физика. 10-11 классы. Электродинамика - 15",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+      "action_time": "2022-03-12T08:58:28.289Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "7",
+      "object_repr": "Александр Перышкин - Физика. 10-11 классы. Электродинамика - 70",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+      "action_time": "2022-03-12T09:00:12.637Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "6",
+      "object_repr": "Андрей Рымкевич",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+      "action_time": "2022-03-12T09:00:36.022Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "7",
+      "object_repr": "Петр Рымкевич",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+      "action_time": "2022-03-12T09:01:05.126Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "5",
+      "object_repr": "Сборник задач по физике для 8-10 классов средней школы",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+      "action_time": "2022-03-12T09:01:22.322Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "8",
+      "object_repr": "Андрей Рымкевич - Сборник задач по физике для 8-10 классов средней школы - 80",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+      "action_time": "2022-03-12T09:01:29.013Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "9",
+      "object_repr": "Петр Рымкевич - Сборник задач по физике для 8-10 классов средней школы - 20",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+      "action_time": "2022-03-12T09:02:24.805Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "6",
+      "object_repr": "Физика. Оптика. Квантовая физика. 11 класс",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+      "action_time": "2022-03-12T09:02:40.672Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "10",
+      "object_repr": "Генадий Мякишев - Физика. Оптика. Квантовая физика. 11 класс - 77",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+      "action_time": "2022-03-12T09:02:58.005Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "11",
+      "object_repr": "Арон Синяков - Физика. Оптика. Квантовая физика. 11 класс - 23",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+      "action_time": "2022-03-12T09:03:23.474Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "7",
+      "object_repr": "Физика. Колебания и волны. 11 класс",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+      "action_time": "2022-03-12T09:03:53.090Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "12",
+      "object_repr": "Генадий Мякишев - Физика. Колебания и волны. 11 класс - 43",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+      "action_time": "2022-03-12T09:04:03.768Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "13",
+      "object_repr": "Арон Синяков - Физика. Колебания и волны. 11 класс - 67",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+      "action_time": "2022-03-12T09:04:46.501Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "8",
+      "object_repr": "Физика. Молекулярная физика. Термодинамика. 10 класс",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+      "action_time": "2022-03-12T09:05:14.873Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "14",
+      "object_repr": "Генадий Мякишев - Физика. Молекулярная физика. Термодинамика. 10 класс - 59",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+      "action_time": "2022-03-12T09:05:21.936Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "15",
+      "object_repr": "Арон Синяков - Физика. Молекулярная физика. Термодинамика. 10 класс - 41",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+      "action_time": "2022-03-12T09:05:51.388Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "9",
+      "object_repr": "Физика. 10 класс. Механика",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+      "action_time": "2022-03-12T09:06:04.236Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "16",
+      "object_repr": "Генадий Мякишев - Физика. 10 класс. Механика - 100",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+      "action_time": "2022-03-12T09:06:37.057Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "10",
+      "object_repr": "Сборник задач по физике. 7-9 классы",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+      "action_time": "2022-03-12T09:07:01.254Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "17",
+      "object_repr": "Александр Перышкин - Сборник задач по физике. 7-9 классы - 100",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+      "action_time": "2022-03-12T09:09:18.179Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "8",
+      "object_repr": "Гунтис Рудзитис",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+      "action_time": "2022-03-12T09:09:54.987Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "9",
+      "object_repr": "Фриц Фельдман",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+      "action_time": "2022-03-12T09:10:35.248Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "11",
+      "object_repr": "Химия. 8 класс. Учебник",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+      "action_time": "2022-03-12T09:13:14.196Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "18",
+      "object_repr": "Гунтис Рудзитис - Химия. 8 класс. Учебник - 53",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+      "action_time": "2022-03-12T09:13:23.717Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "19",
+      "object_repr": "Фриц Фельдман - Химия. 8 класс. Учебник - 47",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+      "name": "Can add log entry",
+      "content_type": 1,
+      "codename": "add_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+      "name": "Can change log entry",
+      "content_type": 1,
+      "codename": "change_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+      "name": "Can delete log entry",
+      "content_type": 1,
+      "codename": "delete_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+      "name": "Can view log entry",
+      "content_type": 1,
+      "codename": "view_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+      "name": "Can add permission",
+      "content_type": 2,
+      "codename": "add_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+      "name": "Can change permission",
+      "content_type": 2,
+      "codename": "change_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+      "name": "Can delete permission",
+      "content_type": 2,
+      "codename": "delete_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+      "name": "Can view permission",
+      "content_type": 2,
+      "codename": "view_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+      "name": "Can add group",
+      "content_type": 3,
+      "codename": "add_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+      "name": "Can change group",
+      "content_type": 3,
+      "codename": "change_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+      "name": "Can delete group",
+      "content_type": 3,
+      "codename": "delete_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+      "name": "Can view group",
+      "content_type": 3,
+      "codename": "view_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+      "name": "Can add user",
+      "content_type": 4,
+      "codename": "add_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+      "name": "Can change user",
+      "content_type": 4,
+      "codename": "change_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+      "name": "Can delete user",
+      "content_type": 4,
+      "codename": "delete_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+      "name": "Can view user",
+      "content_type": 4,
+      "codename": "view_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+      "name": "Can add content type",
+      "content_type": 5,
+      "codename": "add_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+      "name": "Can change content type",
+      "content_type": 5,
+      "codename": "change_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+      "name": "Can delete content type",
+      "content_type": 5,
+      "codename": "delete_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+      "name": "Can view content type",
+      "content_type": 5,
+      "codename": "view_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+      "name": "Can add session",
+      "content_type": 6,
+      "codename": "add_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+      "name": "Can change session",
+      "content_type": 6,
+      "codename": "change_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+      "name": "Can delete session",
+      "content_type": 6,
+      "codename": "delete_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+      "name": "Can view session",
+      "content_type": 6,
+      "codename": "view_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+      "name": "Can add Token",
+      "content_type": 7,
+      "codename": "add_token"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+      "name": "Can change Token",
+      "content_type": 7,
+      "codename": "change_token"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+      "name": "Can delete Token",
+      "content_type": 7,
+      "codename": "delete_token"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+      "name": "Can view Token",
+      "content_type": 7,
+      "codename": "view_token"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+      "name": "Can add token",
+      "content_type": 8,
+      "codename": "add_tokenproxy"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+      "name": "Can change token",
+      "content_type": 8,
+      "codename": "change_tokenproxy"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+      "name": "Can delete token",
+      "content_type": 8,
+      "codename": "delete_tokenproxy"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+      "name": "Can view token",
+      "content_type": 8,
+      "codename": "view_tokenproxy"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+      "name": "Can add author",
+      "content_type": 9,
+      "codename": "add_author"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+      "name": "Can change author",
+      "content_type": 9,
+      "codename": "change_author"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+      "name": "Can delete author",
+      "content_type": 9,
+      "codename": "delete_author"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+      "name": "Can view author",
+      "content_type": 9,
+      "codename": "view_author"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+      "name": "Can add book",
+      "content_type": 10,
+      "codename": "add_book"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+      "name": "Can change book",
+      "content_type": 10,
+      "codename": "change_book"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+      "name": "Can delete book",
+      "content_type": 10,
+      "codename": "delete_book"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+      "name": "Can view book",
+      "content_type": 10,
+      "codename": "view_book"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+      "name": "Can add author book",
+      "content_type": 11,
+      "codename": "add_authorbook"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+      "name": "Can change author book",
+      "content_type": 11,
+      "codename": "change_authorbook"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+      "name": "Can delete author book",
+      "content_type": 11,
+      "codename": "delete_authorbook"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+      "name": "Can view author book",
+      "content_type": 11,
+      "codename": "view_authorbook"
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 1,
+    "fields": {
+      "name": "Посетители",
+      "permissions": [
+        36,
+        40
+      ]
+    }
+  },
+  {
+    "model": "auth.group",
+    "pk": 2,
+    "fields": {
+      "name": "Персонал",
+      "permissions": [
+        33,
+        34,
+        36,
+        37,
+        38,
+        40
+      ]
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$260000$WNcywpSd27B5YpoYqKu0KX$gM6rNzOW9uFperCUqF6mg+3Ivd7de8+cmwlFg4K3Gec=",
+      "last_login": "2022-03-12T05:59:56.170Z",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "Администратор",
+      "last_name": "Администратор",
+      "email": "admin@mac.local",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2022-03-12T05:56:57.535Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$260000$3XyoL8z2vjtVaBFnJR8B3J$fN6aW+H5Gv8ZaQylZY5OE4Rkw2hWH4TT/Q8vm6QevaM=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "visitor",
+      "first_name": "Посетитель",
+      "last_name": "Посетитель",
+      "email": "visitor@mac.local",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-03-12T05:56:57.578Z",
+      "groups": [
+        1
+      ],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 3,
+    "fields": {
+      "password": "pbkdf2_sha256$260000$xZkeOMiLfHapkpi4lsdGim$twinDqKAt1gOyBU4mKl9R8i2QoHhV42//xsUhm+KJsE=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "staff",
+      "first_name": "Персонал",
+      "last_name": "Персонал",
+      "email": "visitor@mac.local",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2022-03-12T05:56:57.620Z",
+      "groups": [
+        2
+      ],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 4,
+    "fields": {
+      "password": "pbkdf2_sha256$260000$1TuCdkPGHnOtLsX5XdqepF$fzZQfAjK9AdeXy+RVCFd0oSOFWSBCUBxJXie11MeNmk=",
+      "last_login": null,
+      "is_superuser": false,
+      "username": "without_perm",
+      "first_name": "Без",
+      "last_name": "Прав",
+      "email": "norights@mac.local",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2022-03-12T05:56:57.661Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+      "app_label": "admin",
+      "model": "logentry"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+      "app_label": "auth",
+      "model": "permission"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+      "app_label": "auth",
+      "model": "group"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+      "app_label": "auth",
+      "model": "user"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+      "app_label": "contenttypes",
+      "model": "contenttype"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+      "app_label": "sessions",
+      "model": "session"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+      "app_label": "authtoken",
+      "model": "token"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+      "app_label": "authtoken",
+      "model": "tokenproxy"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+      "app_label": "bookstore",
+      "model": "author"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+      "app_label": "bookstore",
+      "model": "book"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+      "app_label": "bookstore",
+      "model": "authorbook"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "4j45iqtxg4mzlefd02qrwavqugiv8dcl",
+    "fields": {
+      "session_data": ".eJxVjMsOwiAQRf-FtSG8EZfu-w1kZgCpGkhKuzL-uzbpQrf3nHNfLMK21riNvMQ5sQuT7PS7IdAjtx2kO7Rb59TbuszId4UfdPCpp_y8Hu7fQYVRvzUhCKsLCW1NcF4WF5ACgPe-ONRWEpkiSFExhPksBZiEAVShZLIAxd4f98c43Q:1nSunE:oOLHeb5FyQW7DOwVa4olLo5hiXbEpXeVMI1jEHAeuQg",
+      "expire_date": "2022-03-26T05:59:56.171Z"
+    }
+  },
+  {
+    "model": "bookstore.author",
+    "pk": 1,
+    "fields": {
+      "first_name": "Елена",
+      "last_name": "Гутник",
+      "birthdate": "1902-09-03"
+    }
+  },
+  {
+    "model": "bookstore.author",
+    "pk": 2,
+    "fields": {
+      "first_name": "Александр",
+      "last_name": "Перышкин",
+      "birthdate": "1902-08-21"
+    }
+  },
+  {
+    "model": "bookstore.author",
+    "pk": 3,
+    "fields": {
+      "first_name": "Генадий",
+      "last_name": "Мякишев",
+      "birthdate": "1926-03-20"
+    }
+  },
+  {
+    "model": "bookstore.author",
+    "pk": 4,
+    "fields": {
+      "first_name": "Арон",
+      "last_name": "Синяков",
+      "birthdate": "1970-06-23"
+    }
+  },
+  {
+    "model": "bookstore.author",
+    "pk": 5,
+    "fields": {
+      "first_name": "Борис",
+      "last_name": "Слободсков",
+      "birthdate": "1957-11-26"
+    }
+  },
+  {
+    "model": "bookstore.author",
+    "pk": 6,
+    "fields": {
+      "first_name": "Андрей",
+      "last_name": "Рымкевич",
+      "birthdate": "1923-12-23"
+    }
+  },
+  {
+    "model": "bookstore.author",
+    "pk": 7,
+    "fields": {
+      "first_name": "Петр",
+      "last_name": "Рымкевич",
+      "birthdate": "1953-11-15"
+    }
+  },
+  {
+    "model": "bookstore.author",
+    "pk": 8,
+    "fields": {
+      "first_name": "Гунтис",
+      "last_name": "Рудзитис",
+      "birthdate": "1969-08-02"
+    }
+  },
+  {
+    "model": "bookstore.author",
+    "pk": 9,
+    "fields": {
+      "first_name": "Фриц",
+      "last_name": "Фельдман",
+      "birthdate": "1932-03-12"
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 1,
+    "fields": {
+      "name": "Физика. 9 класс",
+      "published_year": 2010
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 2,
+    "fields": {
+      "name": "Физика. 8 класс",
+      "published_year": 2009
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 3,
+    "fields": {
+      "name": "Физика. 7 класс",
+      "published_year": 2007
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 4,
+    "fields": {
+      "name": "Физика. 10-11 классы. Электродинамика",
+      "published_year": 2012
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 5,
+    "fields": {
+      "name": "Сборник задач по физике для 8-10 классов средней школы",
+      "published_year": 1980
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 6,
+    "fields": {
+      "name": "Физика. Оптика. Квантовая физика. 11 класс",
+      "published_year": 2012
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 7,
+    "fields": {
+      "name": "Физика. Колебания и волны. 11 класс",
+      "published_year": 2012
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 8,
+    "fields": {
+      "name": "Физика. Молекулярная физика. Термодинамика. 10 класс",
+      "published_year": 2002
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 9,
+    "fields": {
+      "name": "Физика. 10 класс. Механика",
+      "published_year": 2013
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 10,
+    "fields": {
+      "name": "Сборник задач по физике. 7-9 классы",
+      "published_year": 2013
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 11,
+    "fields": {
+      "name": "Химия. 8 класс. Учебник",
+      "published_year": 2015
+    }
+  },
+  {
+    "model": "bookstore.book",
+    "pk": 12,
+    "fields": {
+      "name": "Химия. 9 класс. Учебник",
+      "published_year": 2014
+    }
+  },
+  {
+    "model": "bookstore.authorbook",
+    "pk": 1,
+    "fields": {
+      "author": 1,
+      "book": 1,
+      "percentage": 25
+    }
+  },
+  {
+    "model": "bookstore.authorbook",
+    "pk": 2,
+    "fields": {
+      "author": 2,
+      "book": 1,
+      "percentage": 75
+    }
+  },
+  {
+    "model": "bookstore.authorbook",
+    "pk": 3,
+    "fields": {
+      "author": 2,
+      "book": 2,
+      "percentage": 100
+    }
+  },
+  {
+    "model": "bookstore.authorbook",
+    "pk": 4,
+    "fields": {
+      "author": 2,
+      "book": 3,
+      "percentage": 100
+    }
+  },
+  {
+    "model": "bookstore.authorbook",
+    "pk": 5,
+    "fields": {
+      "author": 5,
+      "book": 4,
+      "percentage": 15
+    }
+  },
+  {
+    "model": "bookstore.authorbook",
+    "pk": 6,
+    "fields": {
+      "author": 4,
+      "book": 4,
+      "percentage": 15
+    }
+  },
+  {
+    "model": "bookstore.authorbook",
+    "pk": 7,
+    "fields": {
+      "author": 2,
+      "book": 4,
+      "percentage": 70
+    }
+  },
+  {
+    "model": "bookstore.authorbook",
+    "pk": 8,
+    "fields": {
+      "author": 6,
+      "book": 5,
+      "percentage": 80
+    }
+  },
+  {
+    "model": "bookstore.authorbook",
+    "pk": 9,
+    "fields": {
+      "author": 7,
+      "book": 5,
+      "percentage": 20
+    }
+  },
+  {
+    "model": "bookstore.authorbook",
+    "pk": 10,
+    "fields": {
+      "author": 3,
+      "book": 6,
+      "percentage": 77
+    }
+  },
+  {
+    "model": "bookstore.authorbook",
+    "pk": 11,
+    "fields": {
+      "author": 4,
+      "book": 6,
+      "percentage": 23
+    }
+  },
+  {
+    "model": "bookstore.authorbook",
+    "pk": 12,
+    "fields": {
+      "author": 3,
+      "book": 7,
+      "percentage": 43
+    }
+  },
+  {
+    "model": "bookstore.authorbook",
+    "pk": 13,
+    "fields": {
+      "author": 4,
+      "book": 7,
+      "percentage": 67
+    }
+  },
+  {
+    "model": "bookstore.authorbook",
+    "pk": 14,
+    "fields": {
+      "author": 3,
+      "book": 8,
+      "percentage": 59
+    }
+  },
+  {
+    "model": "bookstore.authorbook",
+    "pk": 15,
+    "fields": {
+      "author": 4,
+      "book": 8,
+      "percentage": 41
+    }
+  },
+  {
+    "model": "bookstore.authorbook",
+    "pk": 16,
+    "fields": {
+      "author": 3,
+      "book": 9,
+      "percentage": 100
+    }
+  },
+  {
+    "model": "bookstore.authorbook",
+    "pk": 17,
+    "fields": {
+      "author": 2,
+      "book": 10,
+      "percentage": 100
+    }
+  },
+  {
+    "model": "bookstore.authorbook",
+    "pk": 18,
+    "fields": {
+      "author": 8,
+      "book": 11,
+      "percentage": 53
+    }
+  },
+  {
+    "model": "bookstore.authorbook",
+    "pk": 19,
+    "fields": {
+      "author": 9,
+      "book": 11,
+      "percentage": 47
+    }
+  },
+  {
+    "model": "bookstore.authorbook",
+    "pk": 20,
+    "fields": {
+      "author": 8,
+      "book": 12,
+      "percentage": 31
+    }
+  },
+  {
+    "model": "bookstore.authorbook",
+    "pk": 21,
+    "fields": {
+      "author": 9,
+      "book": 12,
+      "percentage": 69
+    }
+  }
+]

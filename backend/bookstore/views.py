@@ -2,7 +2,7 @@ from rest_framework import viewsets
 from rest_framework.pagination import LimitOffsetPagination
 from .filters import BookFilter, AuthorFilter
 from .models import Book, Author
-from .serializers import BookModelSerializer, AuthorModelSerializer
+from .serializers import BookModelSerializer, AuthorModelSerializer, AuthorDetailedModelSerializer
 
 
 class BookLimitOffsetPagination(LimitOffsetPagination):
@@ -25,3 +25,9 @@ class AuthorModelViewSet(viewsets.ModelViewSet):
     queryset = Author.objects.all().order_by('first_name')
     pagination_class = AuthorLimitOffsetPagination
     filterset_class = AuthorFilter
+
+
+class AuthorDetailedModelViewSet(viewsets.ReadOnlyModelViewSet):
+    serializer_class = AuthorDetailedModelSerializer
+    queryset = Author.objects.all().order_by('first_name')
+    pagination_class = AuthorLimitOffsetPagination
