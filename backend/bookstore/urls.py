@@ -5,8 +5,8 @@ from rest_framework.authtoken.views import obtain_auth_token
 
 router = DefaultRouter()
 router.register('books', BookModelViewSet)
-router.register('authors', AuthorModelViewSet)
-router.register('authors_detailed', AuthorDetailedModelViewSet)
+router.register('authors', AuthorModelViewSet, basename='author')
+router.register('authors_detailed', AuthorDetailedModelViewSet, basename='authors_detailed')
 
 
 urlpatterns = [
