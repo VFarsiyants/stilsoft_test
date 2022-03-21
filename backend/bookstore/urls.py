@@ -1,11 +1,13 @@
 from django.urls import path, include
 from rest_framework.routers import DefaultRouter
-from bookstore.views import BookModelViewSet, AuthorModelViewSet
+from bookstore.views import BookModelViewSet, AuthorModelViewSet, AuthorDetailedModelViewSet
 from rest_framework.authtoken.views import obtain_auth_token
 
 router = DefaultRouter()
 router.register('books', BookModelViewSet)
-router.register('authors', AuthorModelViewSet)
+router.register('authors', AuthorModelViewSet, basename='author')
+router.register('authors_detailed', AuthorDetailedModelViewSet, basename='authors_detailed')
+
 
 urlpatterns = [
     path('', include(router.urls)),
